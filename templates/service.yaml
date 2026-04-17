@@ -3,7 +3,7 @@ kind: Service
 metadata:
   name: nginx-headless
 spec:
-  clusterIP: None
+  tyepe: {{ .Values.service.type }}
   selector:
     # labels are the selectors
     project: roboshop
