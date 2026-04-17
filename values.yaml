@@ -3,4 +3,4 @@ deployment:
   changeCause: "installing 1.29.8-trixie version"
   imageVersion: "1.29.8-trixie"
 service:
-  type: LoadBalancer
+  type: "LoadBalancer"
