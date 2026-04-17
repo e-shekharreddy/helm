@@ -2,3 +2,4 @@ apiVersion: v2 # this K8S related
 name: nginx
 version: 0.0.1 #This is chart version
 appVersion: latest # this is application version here nginx is app like we have catalogue,nodejs,
+description: "updating latest version"
