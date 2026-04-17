@@ -1,5 +1,5 @@
 apiVersion: v2 # this K8S related
 name: nginx
-version: 0.0.3 #This is chart version
-appVersion: 1.29.8-trixie # this is application version here nginx is app like we have catalogue,nodejs,
-description: "upgrading 1.29.8-trixie"
+version: 0.0.4 #This is chart version
+appVersion: 1.29-trixie # this is application version here nginx is app like we have catalogue,nodejs,
+description: "upgrading 1.29-trixie"
